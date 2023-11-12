@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevGlauberBR
 - 👀 I am interested in finding people who can help me.
-- 🌱 I’m currently learning html, css, JavaScript.
-- 📫 How to reach me: glaubercassio507@gmail.com / +55 11 9 7534 4310 (WhatsApp)
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: glaubercassio507@gmail.com / +351 961 862 620 (WhatsApp)
 @glaubercassio (Instagram)
 
 <!---
